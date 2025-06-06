@@ -4,5 +4,5 @@ pandas
 tensorflow
 matplotlib
 scikit-learn
-tqdm
 spacy
+squarify
