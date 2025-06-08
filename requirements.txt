@@ -6,6 +6,7 @@ matplotlib
 scikit-learn
 spacy
 squarify
-transformers
+transformers[torch]
 evaluate
 tf-keras
+accelerate>=0.26.0
