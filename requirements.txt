@@ -1,10 +1,12 @@
 torch
+torchinfo
 numpy
 pandas
 tensorflow
 matplotlib
 scikit-learn
 spacy
+wordcloud
 squarify
 transformers[torch]
 evaluate
